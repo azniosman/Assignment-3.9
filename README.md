@@ -23,8 +23,8 @@ This project implements a comprehensive monitoring solution for Kubernetes using
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/azniosman/Assignment-3.9.git
+   cd Assignment-3.9
    ```
 
 2. Make the script executable:
